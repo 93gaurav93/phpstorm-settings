@@ -1,8 +1,0 @@
-<keymap version="1" name="Default for KDE copy" parent="Default for KDE">
-  <action id="PublishGroup.Download">
-    <keyboard-shortcut first-keystroke="alt f" second-keystroke="d" />
-  </action>
-  <action id="PublishGroup.Upload">
-    <keyboard-shortcut first-keystroke="alt f" second-keystroke="u" />
-  </action>
-</keymap>
