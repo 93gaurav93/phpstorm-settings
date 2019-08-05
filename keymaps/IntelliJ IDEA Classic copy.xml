@@ -1,0 +1,34 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="meta f4" />
+  </action>
+  <action id="CloseContent" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+  </action>
+  <action id="FileChooser.GotoProject" />
+  <action id="NavBar-selectEnd">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabLeft">
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabRight">
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+</keymap>
