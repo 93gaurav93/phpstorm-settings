@@ -1,11 +1,11 @@
-<scheme name="_@user_Material Darker" version="142" parent_scheme="Darcula">
+<scheme name="Material Darker copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-12-02T13:02:53</property>
+    <property name="created">2019-08-06T10:50:41</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.3.0.0</property>
+    <property name="ideVersion">2019.2.0.0</property>
     <property name="modified">2019-08-06T10:50:53</property>
-    <property name="originalScheme">Material Darker</property>
+    <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -17,6 +17,15 @@
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
