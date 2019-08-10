@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId="Automatic indent detection" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Branch Context group" shouldLog="false" />
     <notification groupId="Code style settings migration" displayType="STICKY_BALLOON" shouldLog="false" />
